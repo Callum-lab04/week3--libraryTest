@@ -35,6 +35,7 @@ namespace LibraryTests
             
             // Assert
             Assert.AreEqual(newName, member.Name);
+
         }
     }
 }
